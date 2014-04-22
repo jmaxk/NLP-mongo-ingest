@@ -1,0 +1,81 @@
+9
+
+dir
+3
+https://nlp-ingest.googlecode.com/svn/trunk/ingest/src/main/java/max/nlp/ingest
+https://nlp-ingest.googlecode.com/svn
+
+
+
+2013-11-20T22:12:22.383229Z
+3
+jmk45@uw.edu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5b0e8e21-668c-dca2-e773-e53cbe5e1cd8
+
+
+
+
+
+
+0
+
+IngestConfiguration.java
+file
+
+
+
+
+2013-11-20T21:57:50.000000Z
+86d8509a4db8a16d22fee1e284af9268
+2013-11-20T22:12:22.383229Z
+3
+jmk45@uw.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1360
+
+blog
+dir
+
+conceptnet
+dir
+
+europarl
+dir
+
+wiktionary
+dir
+

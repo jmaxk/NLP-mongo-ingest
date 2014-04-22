@@ -1,0 +1,5 @@
+#surefire
+#Wed Nov 20 17:27:36 EST 2013
+user.dir=/home/max/workspace/ingest
+localRepository=/home/max/.m2/repository
+basedir=/home/max/workspace/ingest
